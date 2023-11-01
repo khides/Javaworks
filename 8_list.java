@@ -14,7 +14,6 @@ class JSample8_1{
 }
 // 配列は参照型のデータ型なので、変数には値を保存している場所が記憶される
 
-
 // 配列の初期化
 class JSample8_2{
   public static void main(String[] args){
